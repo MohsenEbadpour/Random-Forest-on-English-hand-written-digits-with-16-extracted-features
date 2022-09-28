@@ -4,5 +4,5 @@ The source code is a simple implementation for English hand written digits class
 
 <img src="https://raw.githubusercontent.com/MohsenEbadpour/Random-Forest-on-English-hand-written-digits-with-16-extracted-features/main/output.png" width="500" height="450">
 
-# Note
+### Note
 This code was written as my Machine Learning course's assignment in the fall of 2021, so it may have some bugs to fix or be coded more optimally.
